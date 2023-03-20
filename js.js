@@ -272,6 +272,41 @@
 //________________________________________________________________________________
 // 18// Add 2 numbers without using + operator
 
+// //function add(a, b) {
+//     let x = (-a - b) ;
+  
+//     return Math.abs(x);
+//   }
+  
+//   console.log(add(5, 10));
+  
+//______________________________________________________________________________
+//19// Multiply two numbers without using * operator
+
+// function mul(a,b){
+//     let result=0;
+//        for(let i=1;i<=b;i++){
+//            result+= a;
+//        }
+//        return result;
+//    }
+//    console.log(mul(12,3))
+//_____________________________________________________________________________
+//20// Divide a number without using / operator
+
+// function div(a, b){
+//     let result=0;
+//     for(i=0;a>0;i++){
+//         a-=b;
+//         result++;
+//     }
+//     return result
+// }
+
+// console.log(div(10,2))
+
+
+
 //_______________________________________________________________________________
 // 21//Find the sum of digit 123 = 1+2+3=6
 
