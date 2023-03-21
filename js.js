@@ -321,7 +321,7 @@
 //   console.log(sum);
 // }
 
-// sum(1258)
+sum(1258)
 //______________________________________________________________________________
 // 22// Find whether the number is palindrome or not Example, 141
 
